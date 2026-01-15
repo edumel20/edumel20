@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning **Web Development**
 
-- 🧑‍🎓 I’m currently studying at **IES Puerto de la Cruz - Telésforo Bravo**
+- 🧑‍🎓 Studying at **IES Puerto de la Cruz - Telésforo Bravo**
 
 - 📫 How to reach me **rabadanmelianeduardo@gmail.com**
 
